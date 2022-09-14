@@ -1,0 +1,15 @@
+/home/saint/Desktop/MadLibsGame/bin/Debug/net6.0/MadLibsGame
+/home/saint/Desktop/MadLibsGame/bin/Debug/net6.0/MadLibsGame.deps.json
+/home/saint/Desktop/MadLibsGame/bin/Debug/net6.0/MadLibsGame.runtimeconfig.json
+/home/saint/Desktop/MadLibsGame/bin/Debug/net6.0/MadLibsGame.dll
+/home/saint/Desktop/MadLibsGame/bin/Debug/net6.0/MadLibsGame.pdb
+/home/saint/Desktop/MadLibsGame/obj/Debug/net6.0/MadLibsGame.csproj.AssemblyReference.cache
+/home/saint/Desktop/MadLibsGame/obj/Debug/net6.0/MadLibsGame.GeneratedMSBuildEditorConfig.editorconfig
+/home/saint/Desktop/MadLibsGame/obj/Debug/net6.0/MadLibsGame.AssemblyInfoInputs.cache
+/home/saint/Desktop/MadLibsGame/obj/Debug/net6.0/MadLibsGame.AssemblyInfo.cs
+/home/saint/Desktop/MadLibsGame/obj/Debug/net6.0/MadLibsGame.csproj.CoreCompileInputs.cache
+/home/saint/Desktop/MadLibsGame/obj/Debug/net6.0/MadLibsGame.dll
+/home/saint/Desktop/MadLibsGame/obj/Debug/net6.0/refint/MadLibsGame.dll
+/home/saint/Desktop/MadLibsGame/obj/Debug/net6.0/MadLibsGame.pdb
+/home/saint/Desktop/MadLibsGame/obj/Debug/net6.0/MadLibsGame.genruntimeconfig.cache
+/home/saint/Desktop/MadLibsGame/obj/Debug/net6.0/ref/MadLibsGame.dll
